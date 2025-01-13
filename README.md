@@ -1,0 +1,1 @@
+Personal Fork of Pokemon Red ROM HACK KEP by Plauge Von Karma. Requires RGBDS 0.6.2 or 0.7.0 to asdi recommend running make clean to clean the old tools out then do make kep after extracting repo archive! Enjoy!
